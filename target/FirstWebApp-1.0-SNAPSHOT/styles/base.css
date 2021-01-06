@@ -1,0 +1,17 @@
+body {
+    background-color: #aaa;
+    color: #222;
+}
+
+.title {
+    width:90%;
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.container {
+    width:85%;
+    margin:auto;
+}
